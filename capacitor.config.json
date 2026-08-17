@@ -1,0 +1,9 @@
+{
+  "appId": "com.synthetiksurvivor.app",
+  "appName": "Synthetik Survivor",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
